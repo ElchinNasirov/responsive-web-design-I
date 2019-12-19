@@ -182,7 +182,7 @@ button{
     }
     
     nav a {
-        padding: 15px;
+        padding: 3%;
         margin: auto;
     }
     
@@ -204,18 +204,18 @@ button{
     .top-text-part {
         display: flex;
         margin: 0px 0;
-        padding: 10px;
+        padding: 2%;
     }
     
     .bottom-text-part {
         display: flex;
         margin: 0px 0;
-        padding: 10px;
+        padding: 2%;
         border-bottom: 1px solid black;
     }
     
     .contact {
-        padding: 10px;
+        padding: 2%;
     }
     
     .footer {
@@ -256,8 +256,6 @@ button{
 
     header {
         flex-direction: column;
-        /* justify-content: space-between;
-        margin: 20px 0; */
     }
     
     nav {
@@ -268,7 +266,7 @@ button{
     }
     
     nav a {
-        padding: 15px;
+        padding: 3%;
         margin: auto;
         border-bottom: 1px solid black;
     }
@@ -302,14 +300,14 @@ button{
         display: flex;
         flex-direction: column;
         margin: 0px 0;
-        padding: 10px;
+        padding: 3%;
     }
     
     .bottom-text-part {
         display: flex;
         flex-direction: column;
         margin: 0px 0;
-        padding: 10px;
+        padding: 3%;
         border-bottom: 1px solid black;
     }
     
