@@ -119,6 +119,10 @@ button {
 
 }
 
+.logo-mobile {
+    display: none;
+}
+
 .main-content {
     display: flex;
     flex-wrap: wrap;
